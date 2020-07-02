@@ -1,12 +1,12 @@
 # Stochastic Stein Discrepancies
 
-This repo contains many experiments that utilize the *Stochastc Stein
+This repo contains many experiments that utilize the *Stochastic Stein
 discrepancy*.
 
 # Requirements
 
 The first two experiments are written in Julia v0.6.
-inThere is a file `src/startup.jl` which simply adds the paths of some modules
+There is a file `src/startup.jl` which simply adds the paths of some modules
 to the `LOAD_PATH` variable.  You should either simlink this file to
 `~/.juliarc.jl` or add the lines from this file to your current
 `.juliarc.jl`.  There is a REQUIRE file that demarcates all the necessary
