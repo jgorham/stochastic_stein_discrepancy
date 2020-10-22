@@ -1,7 +1,8 @@
 # Stochastic Stein Discrepancies
 
 This repo contains many experiments that utilize the *Stochastic Stein
-discrepancy*.
+discrepancy*. The paper explaining the theory of this can be found
+[here](https://arxiv.org/abs/2007.02857).
 
 # Requirements
 
